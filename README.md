@@ -2,7 +2,7 @@
 
 **`Engenheiro de Machine Learning`**
 
-<p align="left">Me chamo Victor Amato dos Santos Filho, tenho 23 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC Guaratinguetá. Sou apaixonado por tecnologia e busco constantemente me aprimorar na área de Inteligência Artificial.</p>
+<p align="justify" >Me chamo Victor Amato dos Santos Filho, tenho 23 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC Guaratinguetá. Sou apaixonado por tecnologia e busco constantemente me aprimorar na área de Inteligência Artificial.</p>
 
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/amatowsh)
 [![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/amatowsh)

@@ -37,8 +37,5 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/amatowsh/amatowsh/output/snake.svg" alt="Snake animation" />
 
 ###

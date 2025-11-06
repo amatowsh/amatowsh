@@ -30,6 +30,8 @@
   <img width="12" /> -->
   <img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" height="30" alt="powerbi logo"  />
   <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=OU2ddOKw840K&format=png&color=000000" height="30" alt="powerapps logo"  />
+  <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=JChkA69vF7Lo&format=png&color=000000" height="30" alt="excel logo"  />
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" height="30" alt="sql logo"  />

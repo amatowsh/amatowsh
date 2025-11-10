@@ -2,7 +2,7 @@
 
 **`Analista de Dados`**
 
-<p align="justify" >Me chamo Victor Amato dos Santos Filho, tenho 23 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC Guaratinguetá. Sou apaixonado por dados e busco constantemente me aprimorar na área de Análise de Dados (Ciência de Dados).</p>
+<p align="justify" >Me chamo Victor Amato dos Santos Filho, tenho 23 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC Guaratinguetá. Sou apaixonado por dados e busco constantemente me aprimorar na área de Análise de Dados/BI.</p>
 
 ###
 ---

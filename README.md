@@ -4,16 +4,6 @@
 
 <p align="justify" >Me chamo Victor Amato dos Santos Filho, tenho 23 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC Guaratinguetá. Sou apaixonado por dados e busco constantemente me aprimorar na área de Análise de Dados/BI.</p>
 
-###
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amatowsh&show_icons=true&theme=slateorange&locale=pt-br&include_all_commits=true&count_private=true" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amatowsh&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=slateorange&hide_border=false" height="200" alt="languages graph" />
-</div>
-
-###
-
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazZobTFsNDgxcTF4cm03bGNub3lhaTkwNXVzNDYza285cjFhZzJ3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FoVzfcqCDSb7zCynOp/giphy.gif"  />
 
 ###

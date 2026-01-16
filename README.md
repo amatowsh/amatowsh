@@ -1,14 +1,23 @@
-# 👩🏻‍💻 Victor Amato
+#
 
-**`Analista de Dados`**
+**`About me`**
 
-<p align="justify" >Me chamo Victor Amato dos Santos Filho, tenho 23 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC Guaratinguetá. Sou apaixonado por dados e busco constantemente me aprimorar na área de Análise de Dados e Business Intelligence.</p>
+<p align="justify" > Hi! I'm Victor Amato 👋  
+
+  I'm a Data Analyst focused on Business Intelligence, with hands-on experience in data analysis, ETL processes, and dashboard development to support decision-making.
+
+I currently work with Power BI, SQL, Excel, and Python to transform raw data into clear, actionable insights. My background includes real-world projects in commercial and financial contexts, always with an emphasis on data quality, documentation, and usability for business stakeholders.
+
+I'm continuously improving my skills in analytics, data modeling, and BI best practices.
+
+Check out my public projects!
+</p>
 
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazZobTFsNDgxcTF4cm03bGNub3lhaTkwNXVzNDYza285cjFhZzJ3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FoVzfcqCDSb7zCynOp/giphy.gif"  />
 
 ###
 
-**`Linguagens e Tecnologias`**
+**`Technical Skills`**
 <div align="left">
   <!-- 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
